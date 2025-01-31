@@ -1,0 +1,33 @@
+body {
+  background: #000000;
+  color:darkgoldenrod;
+}
+p {
+  color: white;
+}
+h1 {
+
+  font-weight: bold;
+}
+
+ul { 
+  color: darkgoldenrod;
+}
+
+a{
+  color: darkgoldenrod;
+  font-size: 30px;
+  margin-right: 20px;
+}
+
+.navbar{
+  padding: 40px;
+}
+
+/*flex properties*/
+.container{
+   display: flex;
+    justify-content:center;
+   flex-wrap: wrap;
+   align-content: center;
+}
